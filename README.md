@@ -1,16 +1,32 @@
-## Hi there 👋
+Olá Mundo,
 
-<!--
-**fabiokubata/fabiokubata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Fábio Roque Kubata, sou aluno de Análise e Desenvolvimento de Sistemas na Estácio.
+Minha previsão para graduar é 07/2025. Entretanto, já estudei programação previamente, pois ja tive outra formação.
 
-Here are some ideas to get you started:
+Sou apaixonado pela área de tecnologia, e meu interesse maior é na área de Desenvolvimento Web/Mobile e Ciência de Dados/ BI.
+Meus estudos são focados em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Python
+
+• Flutter
+
+• HTML
+
+• CSS
+
+• Javascript
+
+• RESTful APIs
+
+
+Minha página pessoal criada em HTML , CSS e Javascript está hospedada no link: https://www.kubata.com.br
+
+ Estou buscando minha primeira oportunidade profissional na área. 
+
+ 
+
+Segue meu e-mail e linkedin:
+
+fabiokubata@gmail.com
+
+https://www.linkedin.com/in/fabiokubata
