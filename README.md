@@ -12,6 +12,8 @@ Meus estudos são focados em:
 
 • HTML
 
+• SQL
+
 • CSS
 
 • Javascript
